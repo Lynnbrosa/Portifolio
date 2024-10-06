@@ -25,7 +25,7 @@ export default function Sobre() {
             <div className="text-white mb-7">
                 <h2 className="text-2xl text-white">Idiomas</h2>
                 <div className=" text-white">
-                    <p>Inglês: Nível intermediário</p>
+                    <p>Inglês: Nível fluente</p>
                     <p>Português: Nativo</p>
                     <p>Espanhol: Básico</p>
                 </div>
