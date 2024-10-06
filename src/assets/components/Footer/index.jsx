@@ -2,13 +2,13 @@ export default function Footer() {
     return (
         <footer className={`right-[41vw] top-[94vh] flex justify-center `}>
             <div className="flex gap-1 items-center">
-                <a href="https://www.facebook.com/profile.php?id=100008378767067">
+                <a href="https://www.facebook.com/carloseduardo.buenorosa/">
                     <img src="./facebook.png" alt="Facebook" />
                 </a>
-                <a href="https://github.com/gumoura82">
+                <a href="https://github.com/Lynnbrosa">
                     <img src="./github.png" alt="GitHub" />
                 </a>
-                <a href="www.linkedin.com/in/gustavo-moura-206b9127a">
+                <a href="www.linkedin.com/i">
                     <img src="./linkedin.png" alt="LinkedIn" />
                 </a>
             </div>
